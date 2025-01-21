@@ -1,0 +1,98 @@
+{
+    "files.exclude": {
+        "**/.DS_Store": true,
+        "**/.git": true,
+        "**/.vs": true,
+        "**/.gitmodules": true,
+        "**/.vsconfig": true,
+        "**/*.booproj": true,
+        "**/*.pidb": true,
+        "**/*.suo": true,
+        "**/*.user": true,
+        "**/*.userprefs": true,
+        "**/*.unityproj": true,
+        "**/*.dll": true,
+        "**/*.exe": true,
+        "**/*.pdf": true,
+        "**/*.mid": true,
+        "**/*.midi": true,
+        "**/*.wav": true,
+        "**/*.gif": true,
+        "**/*.ico": true,
+        "**/*.jpg": true,
+        "**/*.jpeg": true,
+        "**/*.png": true,
+        "**/*.psd": true,
+        "**/*.tga": true,
+        "**/*.tif": true,
+        "**/*.tiff": true,
+        "**/*.3ds": true,
+        "**/*.3DS": true,
+        "**/*.fbx": true,
+        "**/*.FBX": true,
+        "**/*.lxo": true,
+        "**/*.LXO": true,
+        "**/*.ma": true,
+        "**/*.MA": true,
+        "**/*.obj": true,
+        "**/*.OBJ": true,
+        "**/*.asset": true,
+        "**/*.cubemap": true,
+        "**/*.flare": true,
+        "**/*.mat": true,
+        "**/*.meta": true,
+        "**/*.prefab": true,
+        "**/*.unity": true,
+        "build/": true,
+        "Build/": true,
+        "Library/": true,
+        "library/": true,
+        "obj/": true,
+        "Obj/": true,
+        "Logs/": true,
+        "logs/": true,
+        "ProjectSettings/": true,
+        "UserSettings/": true,
+        "temp/": true,
+        "Temp/": true
+    },
+    "dotnet.defaultSolution": "ZanTe.sln",
+    "folder-color.pathColors": [
+        {
+            "folderPath": "platformer\\Assets\\角色\\烏列爾.cs\\",
+            "color": "foldercolorizer.blue"
+        },
+        {
+            "folderPath": "platformer\\Assets\\角色\\露西法.cs\\",
+            "color": "foldercolorizer.blue"
+        },
+        {
+            "folderPath": "platformer\\Assets\\物品\\武器\\王者之劍.cs\\",
+            "color": "foldercolorizer.blue"
+        },
+        {
+            "folderPath": "platformer\\Assets\\物品\\武器\\鬼切.cs\\",
+            "color": "foldercolorizer.blue"
+        },
+        {
+            "folderPath": "platformer\\Assets\\物品\\武器\\武器.cs\\",
+            "color": "foldercolorizer.LightPink"
+        },
+        {
+            "folderPath": "platformer\\Assets\\角色控制\\主角藍圖.cs\\",
+            "color": "foldercolorizer.LightPink"
+        },
+        {
+            "folderPath": "platformer\\Assets\\角色控制\\基礎數值藍圖.cs\\",
+            "color": "foldercolorizer.LightYellow"
+        },
+        {
+            "folderPath": "platformer\\Assets\\物品\\物品藍圖.cs\\",
+            "color": "foldercolorizer.LightYellow"
+        },
+        {
+            "folderPath": "ZanTe\\Assets\\管理員\\技能事件管理員.cs\\",
+            "color": "foldercolorizer.color_00cccc"
+        }
+    ]
+}
