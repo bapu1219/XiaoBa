@@ -56,7 +56,7 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "ZanTe.sln",
+    "dotnet.defaultSolution": "XiaoBa.sln",
     "folder-color.pathColors": [
         {
             "folderPath": "platformer\\Assets\\角色\\烏列爾.cs\\",
